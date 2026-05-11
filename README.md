@@ -1,4 +1,4 @@
-# Vecc Tributa
+# Tributa
 
 Agente fiscal sênior digital desenvolvido para apoiar compliance tributário, validação de retenções e transição segura para a Reforma Tributária de 2026.
 
@@ -8,7 +8,7 @@ A solução atua como uma camada de inteligência corporativa entre a entrada da
 
 ## 📌 Visão geral
 
-O **Vecc Tributa** foi criado para enfrentar um cenário de alta complexidade tributária, no qual conferências manuais, múltiplas retenções e regras fiscais sensíveis aumentam o risco de erro e evasão de liquidez.
+O **Tributa** foi criado para enfrentar um cenário de alta complexidade tributária, no qual conferências manuais, múltiplas retenções e regras fiscais sensíveis aumentam o risco de erro e evasão de liquidez.
 
 Seu objetivo é transformar a validação fiscal em um processo mais seguro, rápido e orientado por inteligência, atuando exatamente no ponto mais crítico: entre o recebimento da nota fiscal e a liberação do pagamento.
 
@@ -48,7 +48,7 @@ O projeto foi concebido para:
 A solução foi desenhada como uma rede de inteligência tributária com agentes especializados, operando de forma coordenada dentro do ecossistema Microsoft.
 
 ### Núcleo principal
-- **Vecc Tributa** — agente central de inteligência tributária e governança fiscal.
+- **Tributa** — agente central de inteligência tributária e governança fiscal.
 
 ### Agentes especialistas
 - **[A-AUDITOR] Lázaro Operacional** — agente voltado à auditoria autônoma de compliance, retenções e integridade dos fornecedores.
